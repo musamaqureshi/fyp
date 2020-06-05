@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "753725177067",
+    "firebase_url": "https://finalproject-fe30c.firebaseio.com",
+    "project_id": "finalproject-fe30c",
+    "storage_bucket": "finalproject-fe30c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753725177067:android:88d364307a27693b",
+        "android_client_info": {
+          "package_name": "org.yuri.afinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753725177067-h6abits1ha3afnti08qtvagnnsd38ns6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg5_OU1epFmuTX9x5VBnfQ4MeG6Rlgm0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753725177067-h6abits1ha3afnti08qtvagnnsd38ns6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
